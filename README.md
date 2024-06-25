@@ -40,25 +40,23 @@ Este repositorio está dedicado a pruebas y experimentación con scripts y archi
 
 Si deseas contribuir a este repositorio, siéntete libre de hacer un fork y enviar pull requests. Asegúrate de mantener la coherencia del código y de actualizar el README con cualquier cambio significativo. Para agregar un nuevo script, crea un nuevo archivo con el nombre relacionado al propósito del script y asegúrate de incluir una descripción en el mensaje del commit sobre lo que hace el script. Aquí tienes un ejemplo:
 
-1. Crea un nuevo archivo con un nombre descriptivo:
-    ```bash
-    touch nuevo_script.py
-    ```
-
-2. Agrega el código y guarda los cambios.
-3. Agrega el archivo a Git:
-    ```bash
-    git add nuevo_script.py
-    ```
-
-4. Realiza un commit con un mensaje descriptivo:
-    ```bash
-    git commit -m "Agregar nuevo_script.py para [descripción del propósito del script]"
-    ```
-
-5. Sube los cambios a tu repositorio:
-    ```bash
-    git push origin main
+1. **Haz un fork del repositorio**.
+2. **Clona tu fork**:
+   ```bash
+   git clone https://github.com/tu-usuario/Lab1.git
+Crea una nueva rama para tu cambio:
+bash
+Copiar código
+git checkout -b nombre-de-la-rama
+Haz tus cambios y realiza commits:
+bash
+Copiar código
+git add .
+git commit -m "Descripción de los cambios"
+Empuja la rama a tu fork en GitHub:
+bash
+Copiar código
+git push origin nombre-de-la-rama
     ```
 
 ## Licencia
