@@ -48,18 +48,18 @@ Si deseas contribuir a este repositorio, siéntete libre de hacer un fork y envi
 
 **Crea una nueva rama para tu cambio**:
     ```bash
-git checkout -b nombre-de-la-rama
+    git checkout -b nombre-de-la-rama
     ```
 
 **Haz tus cambios y realiza commits**:
     ```bash
-git add .
-git commit -m "Descripción de los cambios"
+    git add .
+    git commit -m "Descripción de los cambios"
     ```
 
 **Empuja la rama a tu fork en GitHub**:
     ```bash
-git push origin nombre-de-la-rama
+    git push origin nombre-de-la-rama
     ```
 
 ## Licencia
