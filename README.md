@@ -66,3 +66,6 @@ Si deseas contribuir a este repositorio, siéntete libre de hacer un fork y envi
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
+## Idea por:
+- [FourSoda8545](https://github.com/FourSoda8545)
+- puntobat
