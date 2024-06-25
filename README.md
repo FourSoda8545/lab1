@@ -68,4 +68,5 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## Idea por:
 - [FourSoda8545](https://github.com/FourSoda8545)
+- [digital.aldorojaz](instagram.com/digital.aldorojaz/)
 - puntobat
