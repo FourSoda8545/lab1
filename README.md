@@ -44,18 +44,21 @@ Si deseas contribuir a este repositorio, siéntete libre de hacer un fork y envi
 2. **Clona tu fork**:
    ```bash
    git clone https://github.com/tu-usuario/Lab1.git
-Crea una nueva rama para tu cambio:
-bash
-Copiar código
+   ```
+
+**Crea una nueva rama para tu cambio**:
+    ```bash
 git checkout -b nombre-de-la-rama
-Haz tus cambios y realiza commits:
-bash
-Copiar código
+    ```
+
+**Haz tus cambios y realiza commits**:
+    ```bash
 git add .
 git commit -m "Descripción de los cambios"
-Empuja la rama a tu fork en GitHub:
-bash
-Copiar código
+    ```
+
+**Empuja la rama a tu fork en GitHub**:
+    ```bash
 git push origin nombre-de-la-rama
     ```
 
