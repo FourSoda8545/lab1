@@ -1,4 +1,4 @@
-# Lab1 Repository
+# Lab1 
 
 Este repositorio está dedicado a pruebas y experimentación con scripts y archivos diversos. Aquí se realizarán cambios frecuentes, incluyendo la adición, modificación y eliminación de archivos.
 
